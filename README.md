@@ -64,6 +64,7 @@
 | [0016-3sum-closest](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0027-remove-element) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
