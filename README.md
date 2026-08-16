@@ -45,6 +45,7 @@
 | [0001-two-sum](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1207-unique-number-of-occurrences) |
@@ -64,6 +65,7 @@
 | [0016-3sum-closest](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0027-remove-element) |
+| [0141-linked-list-cycle](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
@@ -96,5 +98,10 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
