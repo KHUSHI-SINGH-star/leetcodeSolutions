@@ -118,4 +118,12 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0191-number-of-1-bits) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
