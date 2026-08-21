@@ -40,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0009-palindrome-number) |
 ## Hash Table
@@ -103,6 +104,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0155-min-stack) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
