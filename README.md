@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0402-remove-k-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0402-remove-k-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0402-remove-k-digits) |
 ## Design
 |  |
 | ------- |
@@ -132,4 +135,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0002-add-two-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
