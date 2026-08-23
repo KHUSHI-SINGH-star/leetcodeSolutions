@@ -24,6 +24,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,6 +125,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0191-number-of-1-bits) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
 |  |
 | ------- |
@@ -139,4 +143,8 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0402-remove-k-digits) |
+## Queue
+|  |
+| ------- |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
