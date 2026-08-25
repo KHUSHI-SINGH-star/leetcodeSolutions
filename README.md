@@ -16,6 +16,7 @@
 | [0056-merge-intervals](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0217-contains-duplicate) |
@@ -126,6 +127,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0191-number-of-1-bits) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
@@ -151,4 +153,8 @@
 |  |
 | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
