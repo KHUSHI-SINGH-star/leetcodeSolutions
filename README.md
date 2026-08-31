@@ -27,6 +27,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0973-k-closest-points-to-origin](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 | [1207-unique-number-of-occurrences](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1207-unique-number-of-occurrences) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
@@ -112,6 +114,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
