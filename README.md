@@ -17,6 +17,7 @@
 | [0057-insert-interval](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0078-subsets) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0216-combination-sum-iii) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
@@ -59,6 +61,7 @@
 | [0001-two-sum](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0217-contains-duplicate) |
@@ -196,6 +199,7 @@
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -204,5 +208,6 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
