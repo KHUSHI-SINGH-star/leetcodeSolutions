@@ -27,6 +27,7 @@
 | [0766-toeplitz-matrix](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0766-toeplitz-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0973-k-closest-points-to-origin](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
@@ -152,6 +153,7 @@
 | [0155-min-stack](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Queue
 |  |
 | ------- |
@@ -203,6 +206,7 @@
 | [0099-recover-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -214,6 +218,7 @@
 | [0099-recover-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -224,4 +229,5 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0099-recover-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
