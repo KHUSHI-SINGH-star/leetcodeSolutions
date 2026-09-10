@@ -176,6 +176,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0078-subsets) |
+| [0113-path-sum-ii](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0216-combination-sum-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -205,6 +206,7 @@
 | [0098-validate-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0113-path-sum-ii](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -219,6 +221,7 @@
 | [0098-validate-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0113-path-sum-ii](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -228,6 +231,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0099-recover-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
