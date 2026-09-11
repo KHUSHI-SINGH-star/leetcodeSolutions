@@ -20,6 +20,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0766-toeplitz-matrix](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0766-toeplitz-matrix) |
 ## Prefix Sum
 |  |
@@ -214,6 +216,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -233,6 +236,7 @@
 | [0099-recover-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -249,4 +253,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
