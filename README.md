@@ -13,6 +13,7 @@
 | [0027-remove-element](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
@@ -89,6 +90,7 @@
 | [0016-3sum-closest](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -128,6 +130,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0907-sum-of-subarray-minimums](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Linked List
@@ -154,6 +157,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -169,6 +173,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
