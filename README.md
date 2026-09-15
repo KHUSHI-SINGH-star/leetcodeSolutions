@@ -29,6 +29,7 @@
 | [0766-toeplitz-matrix](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0766-toeplitz-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0973-k-closest-points-to-origin](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
+| [0986-interval-list-intersections](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1207-unique-number-of-occurrences) |
@@ -93,6 +94,7 @@
 | [0042-trapping-rain-water](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
@@ -272,4 +274,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0547-number-of-provinces) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
