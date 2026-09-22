@@ -35,6 +35,7 @@
 | [0986-interval-list-intersections](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
@@ -207,6 +208,7 @@
 | [0347-top-k-frequent-elements](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
