@@ -176,6 +176,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0402-remove-k-digits) |
@@ -237,6 +238,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -269,6 +271,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -287,6 +290,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
