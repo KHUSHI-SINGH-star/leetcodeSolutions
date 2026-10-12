@@ -40,6 +40,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
@@ -140,6 +141,7 @@
 | [0200-number-of-islands](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0766-toeplitz-matrix](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0766-toeplitz-matrix) |
 | [0994-rotting-oranges](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0994-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -280,6 +282,7 @@
 | [0684-redundant-connection](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0994-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -326,6 +329,7 @@
 | [0547-number-of-provinces](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0684-redundant-connection) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -351,6 +355,7 @@
 | [0200-number-of-islands](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0684-redundant-connection) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
 |  |
 | ------- |
