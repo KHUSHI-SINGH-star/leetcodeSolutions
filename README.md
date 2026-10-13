@@ -382,4 +382,8 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0127-word-ladder) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
