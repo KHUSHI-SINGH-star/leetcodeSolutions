@@ -386,6 +386,7 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0176-second-highest-salary) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0595-big-countries) |
 | [1045-customers-who-bought-all-products](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1045-customers-who-bought-all-products) |
