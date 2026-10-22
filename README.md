@@ -393,4 +393,5 @@
 | [1070-product-sales-analysis-iii](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1934-confirmation-rate](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
