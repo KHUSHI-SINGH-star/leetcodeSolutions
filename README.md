@@ -28,6 +28,7 @@
 | [0216-combination-sum-iii](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0692-top-k-frequent-words](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0766-toeplitz-matrix) |
@@ -116,6 +117,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0692-top-k-frequent-words](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
@@ -153,6 +156,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Linked List
 |  |
