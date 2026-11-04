@@ -22,6 +22,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -51,6 +52,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
