@@ -30,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
+| [0540-single-element-in-a-sorted-array](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0692-top-k-frequent-words](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0766-toeplitz-matrix) |
@@ -53,6 +54,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
