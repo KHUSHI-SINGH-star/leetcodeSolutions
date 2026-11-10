@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0127-word-ladder) |
 | [0402-remove-k-digits](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
@@ -196,6 +197,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -430,4 +432,8 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0785-is-graph-bipartite) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
