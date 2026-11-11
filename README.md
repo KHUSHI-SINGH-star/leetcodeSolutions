@@ -302,6 +302,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0802-find-eventual-safe-states) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -352,6 +353,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0802-find-eventual-safe-states) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Search Tree
 |  |
@@ -387,6 +389,7 @@
 | [0547-number-of-provinces](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0802-find-eventual-safe-states) |
 ## Sweep Line
 |  |
 | ------- |
@@ -399,6 +402,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -436,4 +440,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0020-valid-parentheses) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
