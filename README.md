@@ -94,6 +94,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [1207-unique-number-of-occurrences](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1207-unique-number-of-occurrences) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
 |  |
 | ------- |
@@ -287,6 +288,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -308,6 +310,7 @@
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -333,6 +336,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -357,6 +361,7 @@
 | [0785-is-graph-bipartite](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0802-find-eventual-safe-states) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
 | ------- |
