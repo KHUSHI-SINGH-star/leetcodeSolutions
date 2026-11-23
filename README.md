@@ -442,6 +442,7 @@
 | [1327-list-the-products-ordered-in-a-period](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1667-fix-names-in-a-table](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1667-fix-names-in-a-table) |
+| [1729-find-followers-count](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1729-find-followers-count) |
 | [1934-confirmation-rate](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1934-confirmation-rate) |
 ## Simulation
 |  |
