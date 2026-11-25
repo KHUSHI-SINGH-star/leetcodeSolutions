@@ -100,6 +100,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0127-word-ladder) |
 | [0402-remove-k-digits](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
@@ -170,6 +171,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
@@ -231,6 +233,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0113-path-sum-ii) |
@@ -461,6 +464,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0022-generate-parentheses) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
