@@ -438,6 +438,7 @@
 | [0584-find-customer-referee](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/0619-biggest-single-number) |
 | [1045-customers-who-bought-all-products](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/KHUSHI-SINGH-star/leetcodeSolutions/tree/master/1148-article-views-i) |
